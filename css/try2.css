@@ -8,7 +8,7 @@
 }
 body {
   background: rgb(21, 23, 25);
-  overflow: hidden;
+  overflow-x: hidden;
 }
 li {
   height: 50px;
